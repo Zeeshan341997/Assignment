@@ -11,7 +11,7 @@ body{
     background-image: url("../images/header.png");
     background-position: center;
     background-size: cover;
-    height: 650px;
+    height: auto;
 }
 
 .navigation {
